@@ -1,3 +1,16 @@
+# 0.6.2
+
+### New `bean-arduino-core` 2.0.3
+
+* Fix: incorrect version number when selecting board/programmer in Arduino
+* Fix: acceleration range issue
+
+### New Bean and Bean+ Firmware (201704060000)
+
+* Fix: iBeacon issue
+
+---
+
 # 0.6.1
 
 ### New `bean-arduino-core` 2.0.2
